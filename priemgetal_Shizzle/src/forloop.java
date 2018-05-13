@@ -7,7 +7,8 @@ public class forloop {
 //        RegularWhileLoop();
 //        RandomWhileLoop();
 //        GetPriemGetalv1();
-        randomNumbersInArray();
+//        randomNumbersInArray();
+          getUrl_Image();
     }
 
     public static void forLoop () {
@@ -55,7 +56,6 @@ public class forloop {
     }
 
     public static void GetPriemGetalv1() {
-
         int priemGetalNr = 2;
         int huidigGetal = 3;
         int aantalPriemgetallen = 10000000;
@@ -141,4 +141,9 @@ public class forloop {
         System.out.println("smallest item indexNr = " + indexNr);
         System.out.println("end size of the arrayList = " + beaconsArray.size());
     }
+
+    public static void getUrl_Image() {
+
+    }
 }
+
